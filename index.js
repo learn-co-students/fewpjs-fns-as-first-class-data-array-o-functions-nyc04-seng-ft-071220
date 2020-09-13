@@ -40,3 +40,26 @@ function exerciseDog(dogName, dogBreed){
        return message
 }
 
+
+
+
+
+
+
+// let arr = [10, 9, 8, 7, 6]
+
+// arr.forEach( function(element, idx, originalArray){
+//     console.log("ELEMENT:", element)
+//     console.log("INDEX:", idx)
+//     console.log("ORIGINAL", originalArray)
+// } )
+
+// arr.forEach( (element,idx,originalArray) => {
+//    console.log("ELEMENT:", element)
+//   console.log("INDEX:", idx)
+//   console.log("ORIGINAL", originalArray)
+// } )
+
+
+
+
