@@ -30,6 +30,6 @@ let unleashDog = function(dogName="Lauren", dogBreed="Golden Retriever") {
 
 const routine = [wakeDog,leashDog,walkToPark,throwFrisbee,walkHome,unleashDog]
 
-function exerciseDog(dog, breed) {
-  return routine.map(fn => fn(dog, breed))
+function exerciseDog(dogName, dogBreed) {
+  return routine.map(fn => fn(dogName, dogBreed))
 }
